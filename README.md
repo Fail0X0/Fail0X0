@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Fail-X.
+👋 Hi, I’m Fail-X.
 
-Just check around if you need someting.
+Creating Games, mostly Android stuff.
+Feel free to check around if you need someting.
